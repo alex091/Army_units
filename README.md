@@ -1,1 +1,1 @@
-# Army_units
+Basic Units game. Developed while mastering OOP.
